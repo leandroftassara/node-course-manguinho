@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/leandroftassara/node_tdd/issues"
   },
-  "homepage": "https://github.com/leandroftassara/node_tdd#readme"
+  "homepage": "https://github.com/leandroftassara/node_tdd#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^4.1.1"
+  }
 }
