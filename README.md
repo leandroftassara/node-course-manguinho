@@ -6,3 +6,7 @@
 ### Typescript
 ### Jest
 ### Husky with lint-staged and jest
+
+## Section 2
+### Create first version of SignUpController and respective test:
+#### Using presentation layer -> presentation/controllers/SignUpController.ts
