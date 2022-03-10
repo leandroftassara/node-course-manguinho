@@ -10,3 +10,4 @@
 ## Section 2
 ### Create first version of SignUpController and respective test:
 #### Using presentation layer -> presentation/controllers/SignUpController.ts
+### Refactor on SignUpController -> using protocols
