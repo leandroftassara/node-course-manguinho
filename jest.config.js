@@ -1,4 +1,4 @@
-export default {
+module.exports = {
   // collectCoverage: true,
   // collectCoverageFrom: ['<rootDir>/src/**/*.ts'],
   collectCoverageFrom: ['<rootDir>/src/**/*.ts', '!<rootDir>/src/main/**', '!<rootDir>/src/**/*-protocols.ts', '!**/protocols/**', '!**/test/**'],
