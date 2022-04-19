@@ -5,7 +5,7 @@ module.exports = {
   coverageDirectory: 'coverage',
   roots: ['<rootDir>/src'],
   // testEnvironment: "jest-environment-node",
-  testEnvironment: 'node',
+  // testEnvironment: 'node',
   transform: {
     '.+\\.ts$': 'ts-jest'
   },
