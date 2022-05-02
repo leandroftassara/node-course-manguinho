@@ -1,5 +1,5 @@
 {
-  "name": "node_tdd",
+  "name": "node-course-manguinho",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -14,15 +14,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/leandroftassara/node_tdd.git"
+    "url": "git+https://github.com/leandroftassara/node-course-manguinho.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/leandroftassara/node_tdd/issues"
+    "url": "https://github.com/leandroftassara/node-course-manguinho/issues"
   },
-  "homepage": "https://github.com/leandroftassara/node_tdd#readme",
+  "homepage": "https://github.com/leandroftassara/node-course-manguinho#readme",
   "devDependencies": {
     "@shelf/jest-mongodb": "^2.2.1",
     "@types/bcrypt": "^5.0.0",
