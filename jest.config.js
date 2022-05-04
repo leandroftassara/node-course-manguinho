@@ -1,7 +1,6 @@
 module.exports = {
   // collectCoverage: true,
-  // collectCoverageFrom: ['<rootDir>/src/**/*.ts'],
-  collectCoverageFrom: ['<rootDir>/src/**/*.ts', '!<rootDir>/src/main/**', '!<rootDir>/src/**/*-protocols.ts', '!**/protocols/**', '!**/test/**'],
+  collectCoverageFrom: ['<rootDir>/src/**/*.ts', '!<rootDir>/src/main/**', '!<rootDir>/src/**/*-protocols.ts', '!**/protocols/**', '!**/test/**', '!<rootDit>/src/main/**'],
   coverageDirectory: 'coverage',
   roots: ['<rootDir>/src'],
   // testEnvironment: "jest-environment-node",
