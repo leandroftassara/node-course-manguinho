@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/leandroftassara/node-course-manguinho#readme",
   "devDependencies": {
-    "@shelf/jest-mongodb": "^2.2.1",
+    "@shelf/jest-mongodb": "^2.2.2",
     "@types/bcrypt": "^5.0.0",
     "@types/express": "^4.17.13",
     "@types/jest": "^27.4.1",
@@ -52,7 +52,7 @@
     "bcrypt": "^5.0.1",
     "express": "^4.17.3",
     "fast-glob": "^3.2.11",
-    "mongodb": "^4.5.0",
+    "mongodb": "^4.7.0",
     "validator": "^13.7.0"
   }
 }
